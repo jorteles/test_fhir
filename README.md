@@ -4,7 +4,9 @@
 
 # Infra
 
-A infra está dentro do diretório infra
+A infra está dentro do diretório infra.
+
+O ambiente pode ser iniciado em WSL ou Linux nativo que possua docler instalado.
 
 Os arquivos docker-compose.yaml e hapi.application.yaml foram retirados do endereço abaixo
 O intuito é ter o server fhir com banco de dados externo, postgres.
@@ -12,6 +14,7 @@ O intuito é ter o server fhir com banco de dados externo, postgres.
 https://github.com/hapifhir/hapi-fhir-jpaserver-starter
 
 - Para iniciar o docker-compose será necessário criar o diretório infra/fahir-server/hapi.postgress.data
+- mkdir infra/fhir-server/hapi.postgress.data
 
 ***
 
