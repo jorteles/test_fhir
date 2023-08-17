@@ -20,8 +20,8 @@ O script de carga está no diretório src
 
 ## Passos para execução do script de carga
 
-- Para iniciar o projeto iniciar o ambiente python virtual digitando: python -m venv .venv
-- Após inicializar o ambiente digitar source source .venv/bin/activate
+- Iniciar o ambiente python virtual digitando: python -m venv .venv
+- Inicializar o ambiente digitando source source .venv/bin/activate
 - Quando ativado o ambiente executar: pip install -r requirements.txt para instalação do módulo fhirpy
 
 ***
@@ -29,5 +29,3 @@ O script de carga está no diretório src
 # Dados do paciente
 
 Os dados do paciente estão no diretório data
-
-
