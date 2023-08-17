@@ -6,7 +6,7 @@
 
 A infra está dentro do diretório infra.
 
-O ambiente pode ser iniciado em WSL ou Linux nativo que possua docler instalado.
+O ambiente pode ser iniciado em WSL ou Linux nativo que possua docker instalado.
 
 Os arquivos docker-compose.yaml e hapi.application.yaml foram retirados do endereço abaixo
 O intuito é ter o server fhir com banco de dados externo, postgres.
