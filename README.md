@@ -1,4 +1,4 @@
-#FHIR TESTE
+# FHIR TESTE
 
 ***
 
@@ -17,6 +17,8 @@ https://github.com/hapifhir/hapi-fhir-jpaserver-starter
 
 # Código
 O script de carga está no diretório src
+
+## Passos para execução do script de carga
 
 - Para iniciar o projeto iniciar o ambiente python virtual digitando: python -m venv .venv
 - Após inicializar o ambiente digitar source source .venv/bin/activate
