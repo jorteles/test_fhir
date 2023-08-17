@@ -19,13 +19,15 @@ https://github.com/hapifhir/hapi-fhir-jpaserver-starter
 ***
 
 # Código
-O script de carga está no diretório src
+O script de carga está no diretório src.
+Versão do python utilizada foi 3.11.3
 
 ## Passos para execução do script de carga
 
 - Iniciar o ambiente python virtual digitando: python -m venv .venv
 - Inicializar o ambiente digitando source source .venv/bin/activate
 - Quando ativado o ambiente executar: pip install -r requirements.txt para instalação do módulo fhirpy
+- Dentro do diretorio src executar python import.py
 
 ***
 
